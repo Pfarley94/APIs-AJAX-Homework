@@ -1,0 +1,33 @@
+body{
+    margin:auto;
+    width: 1000px;
+    background-color: lightblue;
+}
+button{
+    height: 30px;
+    width: 100px;
+    margin:10px;
+}
+h1{
+    background-color:white;
+    width: 100%;
+    float: left;
+
+}
+#gif-space{
+    width: 75%;
+    float: left;
+    background:white;
+}
+.form-container{
+    width: 25%;
+    float: right;
+    text-align: center;
+    background: white;
+}
+input{
+    height: 30px;
+    width: 100px;
+    margin:10px;
+
+}
